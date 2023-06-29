@@ -3,6 +3,6 @@
 #![allow(unused_variables)]
 // mod filters;
 mod image;
-fn main() {
-    println!("Hello, world!");
-}
+mod tests;
+
+fn main() {}
