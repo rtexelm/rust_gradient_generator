@@ -2,7 +2,7 @@
 #![allow(dead_code)]
 #![allow(unused_variables)]
 // mod filters;
+mod filter;
 mod image;
-mod tests;
 
 fn main() {}
